@@ -44,9 +44,6 @@ If you have feedback or would like to contribute, please feel free to open an is
 
 Contact: Email: poorni.m0405@gmail.com, rishichaitanya888@gmail.com
 
-Company: XenReZ ([www.xenrez.co.in](https://xenrez.co.in/))
-For collaborations, reach out to us at xenrez.ai@gmail.com.
-
 
 ## License
 

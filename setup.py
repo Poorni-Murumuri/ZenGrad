@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='zengrad',  
-    version='1.0.7',
+    version='1.0.8',
     description='ZenGrad: A gradient descent method focused on stability, smooth updates, and efficient, adaptive learning.',
     long_description=open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',

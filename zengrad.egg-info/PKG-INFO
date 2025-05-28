@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: zengrad
-Version: 1.0.7
+Version: 1.0.8
 Summary: ZenGrad: A gradient descent method focused on stability, smooth updates, and efficient, adaptive learning.
 Home-page: https://github.com/Poorni-Murumuri/ZenGrad
 Author: Murumuri Naga Poorni
@@ -63,9 +63,6 @@ model.summary()
 If you have feedback or would like to contribute, please feel free to open an issue or contribute on GitHub.
 
 Contact: Email: poorni.m0405@gmail.com, rishichaitanya888@gmail.com
-
-Company: XenReZ ([www.xenrez.co.in](https://xenrez.co.in/))
-For collaborations, reach out to us at xenrez.ai@gmail.com.
 
 
 ## License

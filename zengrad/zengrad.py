@@ -43,7 +43,7 @@ class ZenGrad(optimizer.Optimizer):
             variable,
             ops.divide(
                 ops.multiply(lr, gradient),
-                ops.log(ops.add(accumulator, 1) + 1),  
+                ops.add(ops.log(ops.add(accumulator, 1)), 1),  
             ),
         )
     def get_config(self):
